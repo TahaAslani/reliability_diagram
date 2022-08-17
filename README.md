@@ -6,7 +6,7 @@ Reliability diagram shows the accuracy of prediction versus the confidence of a 
 PyTorch (only if the raw inputs are provided, not the probabilities)
 
 ## How to run:
-The code can be executed with the prediction probabilities, or with raw inputs of the model.
+The code can be executed with the prediction probabilities, or with raw outputs of the model.
 
 ### Run with the probabilities
 ```
